@@ -1,4 +1,4 @@
-package Window;
+package com.mycompany.differ.Window;
 
 import java.awt.BorderLayout;
 import javax.swing.JLabel;

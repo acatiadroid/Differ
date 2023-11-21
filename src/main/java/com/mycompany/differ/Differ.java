@@ -1,6 +1,6 @@
 package com.mycompany.differ;
 
-import Window.MainWindow;
+import com.mycompany.differ.Window.MainWindow;
 
 public class Differ {
 
